@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	
+	fuck;
+	wei shen me ti jiao bu shang qu
 	return 0;
 }
